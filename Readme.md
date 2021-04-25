@@ -26,3 +26,12 @@ No try.
 Failed for all test sets.
 
 ## Round 1B
+
+### Broken Clock
+No try.
+
+### Subtransmutation
+No try.
+
+### Digit Blocks 
+Solved for 1 out of 2 test sets.
