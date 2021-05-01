@@ -35,3 +35,14 @@ No try.
 
 ### Digit Blocks 
 Solved for 1 out of 2 test sets.
+
+## Round 1C
+
+### Closest Pick 
+No try.
+
+### Roaring Years 
+No try.
+
+### Double or NOTing  
+Only passed sample set. :(
